@@ -2,7 +2,7 @@
 # AIM:
 To write and execute a program for Go-Back-N protocol-Selective Repeat.
 # EQUIPMENTS REQUIRED:
-Personal Computer Turbo C Compiler
+Personal Computer Turbo C Compiler.
 # PROCEDURE:
 8.	Connect two computers in Wired/Wireless LAN.
 9.	Make sure that two computers are in one network and could able to ping each other.
